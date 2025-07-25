@@ -43,6 +43,7 @@ Cette application Android permet de calculer l'Indice de Masse Corporelle (IMC) 
 4. Saisis un poids et une taille, puis clique sur le bouton **Calculer**.
 
 ## 📂 Structure simplifiée
+```` bash
 com.example.myapplication/
 ├── MainActivity.java
 ├── res/
@@ -53,7 +54,7 @@ com.example.myapplication/
 │ │ ├── surpoids.png
 │ │ └── tobese.png
 │ └── values/strings.xml
-
+````
 ## 👨‍💻 Auteur
 
 **Abdelkarim El Hajbi**  
